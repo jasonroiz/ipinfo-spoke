@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_dedup_default_rel_item">
+    <cmdb_dedup_default_rel_item action="DELETE">
+        <sys_class_name>cmdb_dedup_default_rel_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-06 20:19:51</sys_created_on>
+        <sys_id>3828ce6f1bce6010cd36dc6cdc4bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_rel_group.ci</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_224335_ipinfo_sp">caf2e9e31b8e6010cd36dc6cdc4bcb8f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">caf2e9e31b8e6010cd36dc6cdc4bcb8f</sys_scope>
+        <sys_update_name>cmdb_dedup_default_rel_item_3828ce6f1bce6010cd36dc6cdc4bcb61</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-06 20:19:51</sys_updated_on>
+        <whitelist_entry>cmdb_rel_group.ci</whitelist_entry>
+    </cmdb_dedup_default_rel_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPInfo Spoke">caf2e9e31b8e6010cd36dc6cdc4bcb8f</application>
+        <file_path/>
+        <instance_id>4c568014db55401842b321c405961998</instance_id>
+        <instance_name>dev94960</instance_name>
+        <name>cmdb_dedup_default_rel_item_3828ce6f1bce6010cd36dc6cdc4bcb61</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_dedup_default_rel_item"><cmdb_dedup_default_rel_item action="INSERT_OR_UPDATE"><sys_class_name>cmdb_dedup_default_rel_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-06 20:19:51</sys_created_on><sys_id>3828ce6f1bce6010cd36dc6cdc4bcb61</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cmdb_rel_group.ci</sys_name><sys_package display_value="IPInfo Spoke" source="x_224335_ipinfo_sp">caf2e9e31b8e6010cd36dc6cdc4bcb8f</sys_package><sys_policy/><sys_scope display_value="IPInfo Spoke">caf2e9e31b8e6010cd36dc6cdc4bcb8f</sys_scope><sys_update_name>cmdb_dedup_default_rel_item_3828ce6f1bce6010cd36dc6cdc4bcb61</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-06 20:19:51</sys_updated_on><whitelist_entry>cmdb_rel_group.ci</whitelist_entry></cmdb_dedup_default_rel_item></record_update>]]></payload>
+        <payload_hash>-1493930296</payload_hash>
+        <record_name>cmdb_rel_group.ci</record_name>
+        <reverted_from/>
+        <source>42f2e9e31b8e6010cd36dc6cdc4bcb92</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-06 20:19:52</sys_created_on>
+        <sys_id>fc28ce6f1bce6010cd36dc6cdc4bcb62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177790032450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-06 20:19:52</sys_updated_on>
+        <type>CMDB Duplicate Remediator Default Relate</type>
+        <update_guid>3828ce6f6cce601072d6facfae40a762</update_guid>
+        <update_guid_history>3828ce6f6cce601072d6facfae40a762:-1493930296</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="cmdb_rel_group.ci">cf288e6f1bce6010cd36dc6cdc4bcb26</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-06 20:20:01</sys_created_on>
+        <sys_db_object display_value="" name="cmdb_dedup_default_rel_item">cmdb_dedup_default_rel_item</sys_db_object>
+        <sys_id>54d54c91a2f24f78b2520f079de9f924</sys_id>
+        <sys_metadata>3828ce6f1bce6010cd36dc6cdc4bcb61</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_rel_group.ci</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_224335_ipinfo_sp">caf2e9e31b8e6010cd36dc6cdc4bcb8f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">caf2e9e31b8e6010cd36dc6cdc4bcb8f</sys_scope>
+        <sys_scope_delete display_value="">266a6bb8dfa241f0be50860c687ac990</sys_scope_delete>
+        <sys_update_name>cmdb_dedup_default_rel_item_3828ce6f1bce6010cd36dc6cdc4bcb61</sys_update_name>
+        <sys_update_version display_value="cmdb_dedup_default_rel_item_3828ce6f1bce6010cd36dc6cdc4bcb61">fc28ce6f1bce6010cd36dc6cdc4bcb62</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-06 20:20:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
